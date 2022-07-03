@@ -1,9 +1,9 @@
 import React from 'react';
-import Logo from "../img/logo-mona.png";
+import Logo from "../../img/logo-mona.png";
 import {FaSearch} from 'react-icons/fa';
 import {IoMdHeart} from 'react-icons/io';
-import '../css/header.css';
-import '../css/base.css';
+import '../../css/header.css';
+import '../../css/base.css';
 
 function Header() {
   return (

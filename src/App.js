@@ -1,6 +1,6 @@
 import React from 'react'
-import { Header } from './components';
-import Banner from './components/Banner';
+import Header  from './components/header/Header';
+import Banner from './components/main/home/Banner';
 
 export const App = () => {
   return (
